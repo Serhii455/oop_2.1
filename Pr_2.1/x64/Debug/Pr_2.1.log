@@ -1,0 +1,18 @@
+﻿  2.1.cpp
+D:\НУ Львівська Політехніка\ООП\Лабораторні\Лабораторна 2\Lab_2.1\Pr_2.1\Pr_2.1\Triangle.h(13,35): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  (compiling source file '2.1.cpp')
+  
+D:\НУ Львівська Політехніка\ООП\Лабораторні\Лабораторна 2\Lab_2.1\Pr_2.1\Pr_2.1\Triangle.h(14,45): warning C4244: 'return': conversion from 'const double' to 'unsigned int', possible loss of data
+  (compiling source file '2.1.cpp')
+  
+  Triangle.cpp
+D:\НУ Львівська Політехніка\ООП\Лабораторні\Лабораторна 2\Lab_2.1\Pr_2.1\Pr_2.1\Triangle.h(13,35): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  (compiling source file 'Triangle.cpp')
+  
+D:\НУ Львівська Політехніка\ООП\Лабораторні\Лабораторна 2\Lab_2.1\Pr_2.1\Pr_2.1\Triangle.h(14,45): warning C4244: 'return': conversion from 'const double' to 'unsigned int', possible loss of data
+  (compiling source file 'Triangle.cpp')
+  
+D:\НУ Львівська Політехніка\ООП\Лабораторні\Лабораторна 2\Lab_2.1\Pr_2.1\Pr_2.1\Triangle.cpp(50,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\НУ Львівська Політехніка\ООП\Лабораторні\Лабораторна 2\Lab_2.1\Pr_2.1\Pr_2.1\Triangle.cpp(51,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Pr_2.1.vcxproj -> D:\НУ Львівська Політехніка\ООП\Лабораторні\Лабораторна 2\Lab_2.1\Pr_2.1\x64\Debug\Pr_2.1.exe

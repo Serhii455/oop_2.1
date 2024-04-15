@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041D\u0423 \u041B\u044C\u0432\u0456\u0432\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 2\\Lab_2.1\\Pr_2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{409B6591-40D0-4EEA-AA6E-06FB4EE36784}|UnitTest1\\UnitTest1.vcxproj|D:\\\u041D\u0423 \u041B\u044C\u0432\u0456\u0432\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 2\\Lab_2.1\\Pr_2.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{409B6591-40D0-4EEA-AA6E-06FB4EE36784}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D77FCE7-9E2E-4CFA-B79E-46DCD3A4FDFB}|Pr_2.1\\Pr_2.1.vcxproj|D:\\\u041D\u0423 \u041B\u044C\u0432\u0456\u0432\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 2\\Lab_2.1\\Pr_2.1\\Pr_2.1\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D77FCE7-9E2E-4CFA-B79E-46DCD3A4FDFB}|Pr_2.1\\Pr_2.1.vcxproj|solutionrelative:Pr_2.1\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D77FCE7-9E2E-4CFA-B79E-46DCD3A4FDFB}|Pr_2.1\\Pr_2.1.vcxproj|D:\\\u041D\u0423 \u041B\u044C\u0432\u0456\u0432\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 2\\Lab_2.1\\Pr_2.1\\Pr_2.1\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D77FCE7-9E2E-4CFA-B79E-46DCD3A4FDFB}|Pr_2.1\\Pr_2.1.vcxproj|solutionrelative:Pr_2.1\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D77FCE7-9E2E-4CFA-B79E-46DCD3A4FDFB}|Pr_2.1\\Pr_2.1.vcxproj|D:\\\u041D\u0423 \u041B\u044C\u0432\u0456\u0432\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 2\\Lab_2.1\\Pr_2.1\\Pr_2.1\\2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D77FCE7-9E2E-4CFA-B79E-46DCD3A4FDFB}|Pr_2.1\\Pr_2.1.vcxproj|solutionrelative:Pr_2.1\\2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\\u041D\u0423 \u041B\u044C\u0432\u0456\u0432\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 2\\Lab_2.1\\Pr_2.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\\u041D\u0423 \u041B\u044C\u0432\u0456\u0432\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 2\\Lab_2.1\\Pr_2.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T21:36:58.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2.1.cpp",
+              "DocumentMoniker": "D:\\\u041D\u0423 \u041B\u044C\u0432\u0456\u0432\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 2\\Lab_2.1\\Pr_2.1\\Pr_2.1\\2.1.cpp",
+              "RelativeDocumentMoniker": "Pr_2.1\\2.1.cpp",
+              "ToolTip": "D:\\\u041D\u0423 \u041B\u044C\u0432\u0456\u0432\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 2\\Lab_2.1\\Pr_2.1\\Pr_2.1\\2.1.cpp",
+              "RelativeToolTip": "Pr_2.1\\2.1.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T21:25:57.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangle.cpp",
+              "DocumentMoniker": "D:\\\u041D\u0423 \u041B\u044C\u0432\u0456\u0432\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 2\\Lab_2.1\\Pr_2.1\\Pr_2.1\\Triangle.cpp",
+              "RelativeDocumentMoniker": "Pr_2.1\\Triangle.cpp",
+              "ToolTip": "D:\\\u041D\u0423 \u041B\u044C\u0432\u0456\u0432\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 2\\Lab_2.1\\Pr_2.1\\Pr_2.1\\Triangle.cpp",
+              "RelativeToolTip": "Pr_2.1\\Triangle.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwCcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T21:25:37.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.h",
+              "DocumentMoniker": "D:\\\u041D\u0423 \u041B\u044C\u0432\u0456\u0432\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 2\\Lab_2.1\\Pr_2.1\\Pr_2.1\\Triangle.h",
+              "RelativeDocumentMoniker": "Pr_2.1\\Triangle.h",
+              "ToolTip": "D:\\\u041D\u0423 \u041B\u044C\u0432\u0456\u0432\u0441\u044C\u043A\u0430 \u041F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 2\\Lab_2.1\\Pr_2.1\\Pr_2.1\\Triangle.h",
+              "RelativeToolTip": "Pr_2.1\\Triangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T21:25:23.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
